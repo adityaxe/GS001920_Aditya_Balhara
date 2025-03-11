@@ -4,7 +4,7 @@ import Stores from "./pages/Stores";
 import SKUs from "./pages/SKUs";
 import Planning from "./pages/Planning";
 import ChartPage from "./pages/ChartPage";
-import logo from "./assets/logo.svg";  // Import the SVG
+import logo from "./assets/logo.svg"; 
 import "./App.css";
 
 const App = () => {
