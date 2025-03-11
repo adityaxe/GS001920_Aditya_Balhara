@@ -1,0 +1,32 @@
+.stores-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .add-store-btn {
+    background-color: #ff7f50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .add-store-btn:hover {
+    background-color: #ff5722;
+  }
+  
+  .delete-btn {
+    background: none;
+    border: none;
+    color: red;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .delete-btn:hover {
+    color: darkred;
+  }
+  

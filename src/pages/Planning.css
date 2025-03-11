@@ -1,0 +1,25 @@
+.planning-container {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .gm-green {
+    background-color: #4caf50;
+    color: white;
+  }
+  
+  .gm-yellow {
+    background-color: #ffeb3b;
+    color: black;
+  }
+  
+  .gm-orange {
+    background-color: #ff9800;
+    color: white;
+  }
+  
+  .gm-red {
+    background-color: #f44336;
+    color: white;
+  }
+  

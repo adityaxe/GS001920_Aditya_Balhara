@@ -1,0 +1,20 @@
+.chart-container {
+    text-align: center;
+    background-color: #222;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  select {
+    margin-bottom: 15px;
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  .chart-wrapper {
+    width: 100%;
+    height: 500px !important;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
